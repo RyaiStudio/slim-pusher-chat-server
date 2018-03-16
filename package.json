@@ -1,0 +1,11 @@
+{
+  "name": "temp-server-pusher",
+  "version": "1.0.0",
+  "description": "this file will serve as a temporary server for pusher JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryai",
+  "license": "ISC"
+}
