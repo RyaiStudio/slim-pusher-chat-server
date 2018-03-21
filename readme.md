@@ -1,5 +1,4 @@
 # Documentation
-This repo is build with slim and pusherJS for simple webchat a temporary project for simple chat room
 
 ### Prerequisites
 What things you need to install the software and how to install them
